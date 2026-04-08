@@ -38,7 +38,7 @@ Page 2 contained a table of contents with section titles and page numbers. This 
 
 ### Step 3: Transcribe content from page images
 
-Each page was rendered as an image by the Read tool. The content was read visually (as a multimodal LLM) and transcribed into markdown. This included:
+Each page was rendered as an image by the Read tool. The content was read visually (as a multimodal LLM) and transcribed verbatim into markdown. The aim was faithful reproduction of the original text, not paraphrasing or summarisation. Spot-checks against the PDF confirm that the markdown files are word-for-word copies of the source, with only minor formatting differences (e.g. typographic dashes replaced with `--`). This included:
 
 - **Body text** -- converted to plain paragraphs
 - **Headings** -- mapped to markdown heading levels (`#`, `##`, `###`)
