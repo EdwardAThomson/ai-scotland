@@ -7,7 +7,7 @@ Reviews are stored in the corresponding subdirectory for each LLM: `review-claud
 | # | Section | Claude | Gemini | GPT |
 |---|---------|--------|--------|-----|
 | 00 | [Contents](source/markdown/00-contents.md) | [x] | [ ] | [ ] |
-| 01 | [Foreword](source/markdown/01-foreword.md) | [ ] | [ ] | [ ] |
+| 01 | [Foreword](source/markdown/01-foreword.md) | [x] | [ ] | [ ] |
 | 02 | [Introduction](source/markdown/02-introduction.md) | [ ] | [ ] | [ ] |
 | 03 | [Foundations](source/markdown/03-foundations.md) | [ ] | [ ] | [ ] |
 | 04 | [Case for Change](source/markdown/04-case-for-change.md) | [ ] | [ ] | [ ] |
