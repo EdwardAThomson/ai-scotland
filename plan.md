@@ -7,7 +7,7 @@ The government has blocked Claude in the web from accessing the PDF directly.
 1. Read the PDF
     - Split into smaller documents and save in markdown
 2. Review each document with Claude
-    - Summarize key points
+    - Follow the methodology in `review-methodology.md`
     - Save reviews in `review-claude/`
 3. Repeat review with Gemini
     - Save reviews in `review-gemini/`
@@ -16,4 +16,5 @@ The government has blocked Claude in the web from accessing the PDF directly.
 5. Compare reviews and reconcile
 6. Share Findings
 
+Review methodology is defined in `review-methodology.md`.
 Progress is tracked in `review-checklist.md`.

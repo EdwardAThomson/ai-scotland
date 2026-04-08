@@ -37,7 +37,8 @@ review-claude/                 # Claude review outputs
 review-gemini/                 # Gemini review outputs
 review-gpt/                    # GPT review outputs
 review-checklist.md            # Progress tracker across all LLMs
-plan.md                        # Review plan and methodology
+review-methodology.md          # How each section should be reviewed
+plan.md                        # Review plan
 ```
 
 ## Review Approach
