@@ -11,8 +11,8 @@ The government has blocked Claude in the web from accessing the PDF directly.
     - Save reviews in `review-claude/`
 3. Repeat review with Gemini
     - Save reviews in `review-gemini/`
-4. Repeat review with ChatGPT
-    - Save reviews in `review-chatgpt/`
+4. Repeat review with GPT
+    - Save reviews in `review-gpt/`
 5. Compare reviews and reconcile
 6. Share Findings
 

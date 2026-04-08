@@ -2,10 +2,10 @@
 
 Progress tracker for the multi-LLM review of Scotland's AI Strategy 2026-2031.
 
-Reviews are stored in the corresponding subdirectory for each LLM: `review-claude/`, `review-gemini/`, `review-chatgpt/`.
+Reviews are stored in the corresponding subdirectory for each LLM: `review-claude/`, `review-gemini/`, `review-gpt/`.
 
-| # | Section | Claude | Gemini | ChatGPT |
-|---|---------|--------|--------|---------|
+| # | Section | Claude | Gemini | GPT |
+|---|---------|--------|--------|-----|
 | 00 | [Contents](source/markdown/00-contents.md) | [ ] | [ ] | [ ] |
 | 01 | [Foreword](source/markdown/01-foreword.md) | [ ] | [ ] | [ ] |
 | 02 | [Introduction](source/markdown/02-introduction.md) | [ ] | [ ] | [ ] |

@@ -35,7 +35,7 @@ source/
     20-endnotes.md
 review-claude/                 # Claude review outputs
 review-gemini/                 # Gemini review outputs
-review-chatgpt/                # ChatGPT review outputs
+review-gpt/                    # GPT review outputs
 review-checklist.md            # Progress tracker across all LLMs
 plan.md                        # Review plan and methodology
 ```
@@ -45,6 +45,6 @@ plan.md                        # Review plan and methodology
 1. Split the PDF into smaller markdown documents for structured analysis
 2. Review each section with Claude and summarise key points
 3. Repeat the review with Gemini
-4. Repeat the review with ChatGPT
+4. Repeat the review with GPT
 5. Compare reviews and reconcile differences
 6. Share findings
