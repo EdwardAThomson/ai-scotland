@@ -6,7 +6,7 @@ Reviews are stored in the corresponding subdirectory for each LLM: `review-claud
 
 | # | Section | Claude | Gemini | GPT |
 |---|---------|--------|--------|-----|
-| 00 | [Contents](source/markdown/00-contents.md) | [ ] | [ ] | [ ] |
+| 00 | [Contents](source/markdown/00-contents.md) | [x] | [ ] | [ ] |
 | 01 | [Foreword](source/markdown/01-foreword.md) | [ ] | [ ] | [ ] |
 | 02 | [Introduction](source/markdown/02-introduction.md) | [ ] | [ ] | [ ] |
 | 03 | [Foundations](source/markdown/03-foundations.md) | [ ] | [ ] | [ ] |
@@ -24,6 +24,6 @@ Reviews are stored in the corresponding subdirectory for each LLM: `review-claud
 | 15 | [Layer 7 - Data](source/markdown/15-layer7-data.md) | [ ] | [ ] | [ ] |
 | 16 | [Layer 8 - Regulation](source/markdown/16-layer8-regulation.md) | [ ] | [ ] | [ ] |
 | 17 | [Risks & Mitigations](source/markdown/17-risks-and-mitigations.md) | [ ] | [ ] | [ ] |
-| 18 | [Glossary](source/markdown/18-glossary.md) | [ ] | [ ] | [ ] |
-| 19 | [Acknowledgments](source/markdown/19-acknowledgments.md) | [ ] | [ ] | [ ] |
-| 20 | [Endnotes](source/markdown/20-endnotes.md) | [ ] | [ ] | [ ] |
+| 18 | [Glossary](source/markdown/18-glossary.md) | [x] | [ ] | [ ] |
+| 19 | [Acknowledgments](source/markdown/19-acknowledgments.md) | [x] | [ ] | [ ] |
+| 20 | [Endnotes](source/markdown/20-endnotes.md) | [x] | [ ] | [ ] |
