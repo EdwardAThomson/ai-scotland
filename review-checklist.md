@@ -18,7 +18,7 @@ Reviews are stored in the corresponding subdirectory for each LLM: `review-claud
 | 09 | [Layer 1 - Users](source/markdown/09-layer1-users.md) | [x] | [ ] | [ ] |
 | 10 | [Layer 2 - Adoption & Skills](source/markdown/10-layer2-adoption-and-skills.md) | [x] | [ ] | [ ] |
 | 11 | [Layer 3 - Companies & Products](source/markdown/11-layer3-companies-and-products.md) | [x] | [ ] | [ ] |
-| 12 | [Layer 4 - Innovation & R&D](source/markdown/12-layer4-innovation-research-and-development.md) | [ ] | [ ] | [ ] |
+| 12 | [Layer 4 - Innovation & R&D](source/markdown/12-layer4-innovation-research-and-development.md) | [x] | [ ] | [ ] |
 | 13 | [Layer 5 - Data Centres & Infrastructure](source/markdown/13-layer5-data-centres-and-infrastructure.md) | [ ] | [ ] | [ ] |
 | 14 | [Layer 6 - Semiconductors](source/markdown/14-layer6-semiconductors.md) | [ ] | [ ] | [ ] |
 | 15 | [Layer 7 - Data](source/markdown/15-layer7-data.md) | [ ] | [ ] | [ ] |
