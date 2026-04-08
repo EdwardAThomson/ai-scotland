@@ -11,7 +11,7 @@ Reviews are stored in the corresponding subdirectory for each LLM: `review-claud
 | 02 | [Introduction](source/markdown/02-introduction.md) | [x] | [ ] | [ ] |
 | 03 | [Foundations](source/markdown/03-foundations.md) | [x] | [ ] | [ ] |
 | 04 | [Case for Change](source/markdown/04-case-for-change.md) | [x] | [ ] | [ ] |
-| 05 | [Purpose & Outcomes](source/markdown/05-purpose-and-outcomes.md) | [ ] | [ ] | [ ] |
+| 05 | [Purpose & Outcomes](source/markdown/05-purpose-and-outcomes.md) | [x] | [ ] | [ ] |
 | 06 | [Actions](source/markdown/06-actions.md) | [ ] | [ ] | [ ] |
 | 07 | [AI Scotland](source/markdown/07-ai-scotland.md) | [ ] | [ ] | [ ] |
 | 08 | [AI Action Plan](source/markdown/08-ai-action-plan.md) | [ ] | [ ] | [ ] |
