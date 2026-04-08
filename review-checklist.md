@@ -20,7 +20,7 @@ Reviews are stored in the corresponding subdirectory for each LLM: `review-claud
 | 11 | [Layer 3 - Companies & Products](source/markdown/11-layer3-companies-and-products.md) | [x] | [ ] | [ ] |
 | 12 | [Layer 4 - Innovation & R&D](source/markdown/12-layer4-innovation-research-and-development.md) | [x] | [ ] | [ ] |
 | 13 | [Layer 5 - Data Centres & Infrastructure](source/markdown/13-layer5-data-centres-and-infrastructure.md) | [x] | [ ] | [ ] |
-| 14 | [Layer 6 - Semiconductors](source/markdown/14-layer6-semiconductors.md) | [ ] | [ ] | [ ] |
+| 14 | [Layer 6 - Semiconductors](source/markdown/14-layer6-semiconductors.md) | [x] | [ ] | [ ] |
 | 15 | [Layer 7 - Data](source/markdown/15-layer7-data.md) | [ ] | [ ] | [ ] |
 | 16 | [Layer 8 - Regulation](source/markdown/16-layer8-regulation.md) | [ ] | [ ] | [ ] |
 | 17 | [Risks & Mitigations](source/markdown/17-risks-and-mitigations.md) | [ ] | [ ] | [ ] |
