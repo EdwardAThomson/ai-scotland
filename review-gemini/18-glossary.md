@@ -1,0 +1,3 @@
+# Review: 18-glossary.md
+
+The glossary provides solid, accessible definitions for key technical and economic concepts (e.g., "Inference", "Distributed Compute", "Green Compute", "Data sovereignty") which aligns well with the "AI Stack" approach. However, there is a notable gap regarding ethical and policy-driven terms. Terminology frequently leaned on throughout the strategy, such as "Trustworthy AI", "Responsible AI", or even specific Scottish frameworks like "Fair Work", are surprisingly absent from the glossary. This omits important interpretative guidance for some of the strategy's more values-based statements.
