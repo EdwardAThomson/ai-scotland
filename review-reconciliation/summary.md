@@ -1,71 +1,59 @@
-# Reconciliation Summary
+# Final Assessment: Scotland's AI Strategy 2026-2031
 
-## Overview
+This is the consolidated verdict on Scotland's AI Strategy, synthesised from three independent LLM reviews (Claude, GPT, Gemini), their reconciliation, and the meta-analysis of what all three missed.
 
-Three independent LLM reviewers (Claude, GPT, Gemini) reviewed Scotland's AI Strategy 2026-2031 section by section using the same methodology and checklist. This reconciliation compared all 63 section-level reviews and 3 summary documents to identify consensus, unique findings, disagreements, and meta-gaps.
+---
 
-## Key Numbers
+## What the strategy is
 
-| Metric | Count |
-|--------|-------|
-| Consensus findings (all 3 agree) | 17 |
-| Findings unique to one reviewer | 26 (15 Claude, 5 GPT, 6 Gemini) |
-| Disagreements between reviewers | 18 |
-| Meta-gaps (none of the 3 covered) | 10 |
+Scotland's AI Strategy 2026-2031 is a five-year policy framework published in March 2026. It uses an "AI Stack" model of eight layers -- from semiconductors to users, with data and regulation as cross-cutting concerns -- to organise the Scottish Government's response to AI. It sets out a purpose, eight high-level outcomes for 2031, ten actions to be completed by March 2027, and layer-specific actions and outcomes across the full stack.
 
-## Strongest Consensus
+## What it gets right
 
-The three reviewers converge most emphatically on:
+**The diagnosis is strong.** The Case for Change is the strategy's best section. It honestly names real problems: only 30.7% of Scottish businesses use AI, public sector data is fragmented and hard to access, research excellence does not convert into commercial impact, and skills shortages are acute. This candour sets a foundation the rest of the strategy struggles to build on.
 
-1. **No measurable targets** -- the strategy's outcomes have no baselines, metrics, or success criteria. This was flagged in virtually every section review by all three reviewers.
-2. **No budgets** -- not a single action includes a cost or funding source.
-3. **Actions create structures, not results** -- most actions are "launch", "establish", or "pilot" with no specified deliverables.
-4. **Case for Change is the strongest section** -- all three independently singled it out.
-5. **Semiconductors has the best strategic thinking** -- the niche positioning was praised unanimously.
-6. **Fair Work is rhetorical, not operational** -- introduced as central, then absent from delivery.
+**The semiconductor positioning is realistic.** Rather than chasing volumetric chip fabrication, the strategy targets Scotland's genuine niche strengths in photonics, advanced packaging, and superconducting components. This is the clearest strategic thinking in the document and the only section where international comparators are named.
 
-## Reviewer Profiles
+**The case studies are specific and measurable.** Citizens Advice Scotland's AI triage tool (35,000 cases, 75% involving health conditions). EGG Lighting's AI-driven manufacturing (£40-60k cost avoidance, 30-40 minutes saved per delivery). Chemify's AI chemistry platform ($50 million raise, 180 jobs, facility in Glasgow). Quantcore's superconducting fabrication in Glasgow. These demonstrate what responsible AI adoption looks like in practice -- and they are more concrete than anything the strategy commits to itself.
 
-The reconciliation reveals distinct analytical personalities:
+**The regulatory analysis is politically significant.** The case for EU AI Act alignment, argued on market access grounds, is the most consequential policy position in the document. Scotland's advocacy for OECD principles on a statutory footing is clearly reasoned and economically motivated.
 
-**Claude** was the most granular and critical. Distinctive contributions: source scrutiny (questioning the 296 companies figure, non-public GDP report), cross-referencing within the strategy (tracking action repetition, Fair Work follow-through, case study reuse), and identifying specific missing mechanisms (right to appeal, accessibility, IP, education). Produced the most unique findings (15).
+**The AI Stack works as a structuring device.** It provides a clear, adaptable framework for organising complex AI policy. It is not "radical" -- layered technology models are well-established -- but it is effective.
 
-**GPT** was the most architecturally minded. Distinctive contributions: identifying systemic assumptions (coordination-as-delivery), consistently framing devolved power constraints as a cross-cutting issue, and flagging procurement reform as a missing lever. Occupied a balanced middle ground on most disagreements.
+## What it gets wrong
 
-**Gemini** was the most sympathetic reviewer. Distinctive contributions: foregrounding constitutional and external dependencies as a top-level risk, recognising the AI Stack's communication challenges for non-technical audiences, and identifying positive design choices (Net Zero alignment, consortium leverage). However, Gemini missed several fundamental weaknesses: the absence of budgets, the empty Phases 2 and 3, the one-sided Foundations section, the absence of trade unions from governance, and the lack of international benchmarks.
+**There are no measurable targets.** This is the strategy's most fundamental weakness and the point on which all three reviewers agreed most emphatically. Not one of the eight outcomes, and not one of the layer-specific outcomes, includes a baseline, target, threshold, or metric. "Widespread literacy," "globally competitive," "world-leading research" -- none of these can be assessed. The government could claim success on every outcome in 2031 without demonstrating meaningful change.
 
-## Disagreement Pattern
+**There are no budgets.** Not a single action across the entire strategy includes a cost, funding source, or resource allocation. An AI Leadership Academy, a Scale-up Accelerator, a nationwide engagement programme, a data matchmaking pilot -- all are proposed without any indication of how they will be funded. The only figure attached to any programme is "nearly £1 million" for the existing SME AI Adoption Programme, which reached 0.14% of Scotland's SME base.
 
-Of 18 disagreements, **Claude and GPT aligned against Gemini in the majority of cases**. No disagreements were about factual matters -- all were differences in evaluative emphasis and analytical standards. Gemini took the more favourable position in every single disagreement. This systematic pattern suggests Gemini applied a less critical lens overall, which meant it missed several of the strategy's most significant structural weaknesses.
+**Actions create machinery, not results.** The ten key actions are predominantly "launch," "establish," "pilot," "work with partners." By March 2027, Scotland will have constituted panels, advisory boards, academies, and pilots. The strategy does not specify what any of these should achieve. A Future Jobs Panel with no terms of reference, a Scale-up Accelerator with no target for companies supported, guidance on green data centres rather than an actual data centre -- these are process steps, not outcomes.
 
-The one area where Gemini's emphasis adds genuine value is **constitutional constraints and external dependencies** -- Gemini elevated this to a top-level finding more effectively than Claude or GPT.
+**Phases 2 and 3 are empty.** The strategy is presented as a five-year plan in three phases. Only Phase 1 actions are defined. Phases 2 (2027) and 3 (2029) are blank, with no criteria for what enters them. This makes the strategy effectively a 12-month action plan in a five-year wrapper.
 
-## Meta-Gaps
+**Fair Work is a phantom commitment.** The foreword positions Fair Work as central to Scotland's AI approach. It is not embedded in governance, actions, or delivery. AI Scotland's consortium partners are tech-sector and enterprise-focused. The Expert Advisory Board's membership criteria do not include worker representatives. Trade unions are not named in consultation, governance, or the advisory group. The glossary does not define Fair Work. The only section where it appears meaningfully is Layer 2 (Adoption and Skills).
 
-All three reviewers shared blind spots created by the common methodology:
+**The risk register is incomplete.** Gender inequality is the only named equality risk, despite the Equality Act covering nine protected characteristics. Globally recognised AI risks are absent: misinformation and deepfakes, algorithmic bias beyond gender, cybersecurity threats from AI-enabled attacks, democratic integrity, concentration of power in a small number of companies, and risks to children. Mitigations describe desired end-states, not actionable interventions.
 
-- No international benchmarking was performed (all noted the strategy lacks it, but none did it themselves)
-- No assessment of inter-strategy coherence with the 10+ other Scottish strategies referenced
-- No analysis of political or institutional dynamics affecting delivery
-- No fiscal context for the strategy's ambitions
-- No evidence drawn from implementation science or the 2021 AI Strategy's delivery track record
+**The strategy is economy-first, not people-first.** People appear as users of public services, workers needing reskilled, or citizens needing reassurance -- but rarely as direct beneficiaries. There is no right to challenge AI decisions, no complaints mechanism, no requirement for a human alternative in AI-enabled public services. Accessibility for disabled users and those without internet access is not mentioned. The regulation section frames its case around market access rather than citizen protection.
 
-These gaps are inherent to LLM-based text analysis and suggest a subsequent review phase could usefully bring in domain expertise and real-world context.
+## What is missing entirely
 
-## Conclusion
+**Education.** "Prepared young people" is a stated outcome with zero corresponding actions. AI in schools, colleges, and university curricula is not addressed.
 
-The three-reviewer approach worked well. The consensus findings carry high confidence precisely because they emerged independently. The unique findings from each reviewer -- Claude's source scrutiny, GPT's governance analysis, Gemini's dependency mapping -- each added genuine value that the others missed. The disagreements are analytically informative rather than problematic, revealing where the strategy's language is ambiguous enough to support divergent readings.
+**Large enterprises.** The strategy focuses on SMEs. Scotland's large employers face different AI adoption challenges that are unaddressed.
 
-The reconciled view is clear: Scotland's AI Strategy establishes a reasonable framework, identifies real strengths and challenges, and includes strong case studies. Its fundamental weaknesses are the absence of measurable targets, budgets, and delivery mechanisms. It reads as a statement of ambition rather than a plan for delivery.
+**Acquisition risk.** Successful Scottish AI companies are frequently acquired and relocated. This primary threat to the ecosystem is not discussed.
 
-## Files in this directory
+**Private sector data.** The Data layer focuses exclusively on public sector data. The data needs of AI companies -- commercial datasets, synthetic data, industry benchmarks -- are absent.
 
-| File | Contents |
-|------|----------|
-| [00-methodology.md](00-methodology.md) | How the reconciliation was conducted |
-| [01-consensus-findings.md](01-consensus-findings.md) | 17 points where all 3 reviewers agree |
-| [02-unique-findings.md](02-unique-findings.md) | 26 findings raised by only 1 or 2 reviewers |
-| [03-disagreements.md](03-disagreements.md) | 18 areas where reviewers diverge |
-| [04-gap-analysis.md](04-gap-analysis.md) | 10 themes none of the reviewers covered |
-| [05-section-matrix.md](05-section-matrix.md) | Section-by-section comparison across all 21 sections |
-| [summary.md](summary.md) | This file |
+**International benchmarks.** Statistics are presented without context. How does 296 AI companies compare to peer nations? Is 30.7% AI adoption high or low? The endnotes are almost entirely domestic.
+
+**Implementation evidence.** The 2021 AI Strategy is referenced but its delivery record is not assessed. What worked? What didn't? Why?
+
+## The bottom line
+
+Scotland's AI Strategy correctly identifies what needs to happen and why. Its strengths are real: an honest problem diagnosis, realistic semiconductor positioning, strong case studies, and a clear regulatory stance. The AI Stack provides a sound organising framework.
+
+Its weakness is not in what it says but in what it commits to. Without measurable targets, it cannot be held accountable. Without budgets, its ambitions are aspirational. Without delivery mechanisms beyond panels and pilots, its actions are process steps. Without embedding Fair Work, inclusion, and citizen rights into governance and delivery, its values statements are rhetorical.
+
+The strategy's own case studies show what specificity and measurability look like. The strategy should hold itself to the same standard.

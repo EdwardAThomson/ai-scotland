@@ -19,7 +19,7 @@ The reconciliation identified **17 consensus findings** where all three reviewer
 - The **Semiconductors** layer has the best strategic thinking, with a realistic niche focus
 - **Fair Work** is rhetorically central but operationally absent from governance and delivery
 
-See [review-reconciliation/summary.md](review-reconciliation/summary.md) for the full reconciliation, or dive into the individual files for detail.
+See the [final assessment](review-reconciliation/summary.md) for the consolidated verdict, or dive into the individual reconciliation files for detail.
 
 ## Review Approach
 
@@ -68,7 +68,8 @@ review-reconciliation/         # Cross-review reconciliation
   03-disagreements.md          # 18 areas where reviewers diverge
   04-gap-analysis.md           # 10 themes none of the reviewers covered
   05-section-matrix.md         # Section-by-section comparison across all 21 sections
-  summary.md                   # Overall reconciliation summary
+  methodology-summary.md        # Reconciliation methodology summary
+  summary.md                   # Final assessment of the strategy
 review-checklist.md            # Progress tracker across all LLMs
 review-methodology.md          # How each section should be reviewed
 process.md                     # How the PDF-to-markdown conversion was done
