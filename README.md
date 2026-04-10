@@ -28,6 +28,18 @@ See the [final assessment](review-reconciliation/summary.md) for the consolidate
 3. **Reconcile** -- Cross-reference all 63 section reviews to identify consensus, unique findings, disagreements, and meta-gaps
 4. **Share** -- Publish findings
 
+## Tools
+
+All reviews were conducted using IDE-integrated CLI tools within [Windsurf](https://windsurf.com):
+
+| LLM | Model | Tool |
+|-----|-------|------|
+| Claude | Claude 4.6 Opus | [Claude Code](https://docs.anthropic.com/en/docs/claude-code) (CC) extension |
+| GPT | GPT 5.4 | [Codex](https://openai.com/index/codex/) extension |
+| Gemini | Gemini 3.1 Pro | [Antigravity](https://antigravity.dev/) extension |
+
+The reconciliation was performed by Claude Code. Each LLM reviewed the source material independently with no visibility of the other reviews.
+
 ![AI Strategy 2026-2031](ai_scotland_banner.png)
 
 

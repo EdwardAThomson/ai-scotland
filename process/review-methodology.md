@@ -53,6 +53,16 @@ review-gemini/01-foreword.md
 review-gpt/01-foreword.md
 ```
 
+## Tools
+
+Reviews were conducted using IDE-integrated CLI tools within Windsurf:
+
+- **Claude** (Claude 4.6 Opus) -- via the Claude Code (CC) extension
+- **GPT** (GPT 5.4) -- via the Codex extension
+- **Gemini** (Gemini 3.1 Pro) -- via the Antigravity extension
+
+Each LLM reviewed the source material independently with no visibility of the other reviews. The reconciliation was performed by Claude Code.
+
 ## Tone
 
 Reviews should be analytical and constructive. The goal is to understand the strategy's strengths and weaknesses, not to score political points. Where criticism is warranted, it should be specific and grounded in the text.
